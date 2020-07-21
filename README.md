@@ -15,6 +15,10 @@ K-Core based Temporal Graph Convolutional Network for Dynamic Graphs
 
 https://arxiv.org/abs/2003.09902
 
+KDD'20 Laplacian Change Point Detection for Dynamic Graphs
+
+KDD'20 Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
+
 ## Survey
 - [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/pdf/1905.11485.pdf)
 
@@ -55,6 +59,9 @@ https://arxiv.org/abs/2003.09902
 	- Youngjoo Seo, Michaël Defferrard, Pierre Vandergheynst, Xavier Bresson, ICONIP 2017.
 - [Dynamic Network Embedding by Modeling Triadic Closure Process](http://yangy.org/works/dynamictriad/dynamic_triad.pdf)
 	- Lekui Zhou, Yang Yang, Xiang Ren, Fei Wu, Yueting Zhuang. AAAI 2018.
+
+# Generative models
+- KDD'20 A Data Driven Graph Generative Model for Temporal Interaction Networks
 
 ## Applications
 
