@@ -20,6 +20,7 @@ KDD'20 Laplacian Change Point Detection for Dynamic Graphs
 KDD'20 Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
 
 KDD'18 Embedding Temporal Network via Neighborhood Formation
+
 CIKM'19 Temporal Network Embedding with Micro-and Macro-dynamics
 
 
