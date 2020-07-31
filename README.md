@@ -19,6 +19,10 @@ KDD'20 Laplacian Change Point Detection for Dynamic Graphs
 
 KDD'20 Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
 
+KDD'18 Embedding Temporal Network via Neighborhood Formation
+CIKM'19 Temporal Network Embedding with Micro-and Macro-dynamics
+
+
 ## Survey
 - [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/pdf/1905.11485.pdf)
 
@@ -29,6 +33,7 @@ KDD'20 Connecting the Dots: Multivariate Time Series Forecasting with Graph Neur
 	- ICLR2020
 - [DyREP: Learning Representations over Dynamic Graphs](https://openreview.net/forum?id=HyePrhR5KX) (Extrapolation)
 	- Rakshit Trivedi, Mehrdad Farajtabar, Prasenjeet Biswal, Hongyuan Zha. ICLR 2019.
+- Learning Temporal Attention in Dynamic Graphs with Bilinear Interactions github: https://github.com/uoguelph-mlrg/LDG Extend the DyRep 
 - [DynGEM: Deep Embedding Method for Dynamic Graphs](https://arxiv.org/abs/1805.11273)
 	- Palash Goyal, Nitin Kamra, Xinran He, Yan Liu. IJCAI 2017.
 - [Graph2Seq: Scalable Learning Dynamics for Graphs](https://openreview.net/forum?id=Ske7ToC5Km)
