@@ -23,6 +23,8 @@ KDD'18 Embedding Temporal Network via Neighborhood Formation
 
 CIKM'19 Temporal Network Embedding with Micro-and Macro-dynamics
 
+Weisfeiler-Lehman Neural Machine for Link Prediction
+
 
 ## Survey
 - [Foundations and modelling of dynamic networks using Dynamic Graph Neural Networks: A survey](https://arxiv.org/pdf/1905.11485.pdf)
